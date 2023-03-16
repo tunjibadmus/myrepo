@@ -1,4 +1,5 @@
 Hello from TEEJAYS REPOSITORY!
+<<<<<<< HEAD
 
 GIT COMMANDS
 
@@ -56,3 +57,5 @@ GIT COMMANDS
   230  git push origin master
   231  history
 
+=======
+>>>>>>> parent of fa3fcd4 (Updated hello.txt`:wq)
