@@ -1,8 +1,4 @@
-Hello from TEEJAYS REPOSITORY!
-
-GIT COMMANDS
-
-  179  git clone git@github.com:tunjibadmus/ansible-tutorial.git
+ 179  git clone git@github.com:tunjibadmus/ansible-tutorial.git
   180  which git
   181  ls
   182  git init myrepo
@@ -55,4 +51,14 @@ GIT COMMANDS
   229  cat .git/config
   230  git push origin master
   231  history
-
+  232  ls
+  233  vim hello.txt
+  234  git status
+  235  git add hello.txt
+  236  git remote add origin https://github.com/tunjibadmus/myrepo.git
+  237  git remote add origin https://github.com/tunjibadmus/myrepo2.git
+  238  git remote add origin https://github.com/tunjibadmus/git_commands
+  239  git remote add origin https://github.com/tunjibadmus/git_commands
+  240  cat .git/config
+  241  git status
+  242  vim git_commands
